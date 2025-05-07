@@ -1,0 +1,1730 @@
+[
+  {
+    "zona": "Nord America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale programma nazionale statunitense fornisce pasti gratuiti o a basso costo agli studenti?",
+    "corretta": "National School Lunch Program",
+    "sbagliate": [
+      "Food for All",
+      "School Meals Project",
+      "Green Harvest"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "In Canada, quale politica agricola sostiene i piccoli produttori locali per ridurre l’insicurezza alimentare?",
+    "corretta": "Programmi di sovvenzioni locali e comunitarie",
+    "sbagliate": [
+      "sovvenzioni USA",
+      "aiuti europei",
+      "sovvenzioni europee"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Negli Stati Uniti, cosa significa “food desert”?",
+    "corretta": "Area con scarso accesso a cibo fresco e salutare",
+    "sbagliate": [
+      "deserto con tanto cibo",
+      "area con cibo tipico di zone desertiche",
+      "oasi nel deserto"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale città canadese ha vietato l’uso di bottiglie d’acqua in plastica monouso nei luoghi pubblici?",
+    "corretta": "Vancouver",
+    "sbagliate": [
+      "Toronto",
+      "Montreal",
+      "Ottawa"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Qual è uno dei problemi idrici principali nella regione sud-occidentale degli USA?",
+    "corretta": "Siccità e carenza d'acqua",
+    "sbagliate": [
+      "esondazione dei fiumi",
+      "spreco di acqua",
+      "mancanza di infrastrutture idriche adeguate"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale grande lago nordamericano è a rischio di inquinamento da fertilizzanti agricoli?",
+    "corretta": "Lago Erie",
+    "sbagliate": [
+      "Lago Ontario",
+      "Lago Superiore",
+      "Lago Michigan"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale tipo di inquinamento colpisce frequentemente le coste del Golfo del Messico?",
+    "corretta": "Zona morta da eutrofizzazione",
+    "sbagliate": [
+      "Inquinamento luminoso costiero",
+      "Contaminazione da petrolio",
+      "Rifiuti plastici galleggianti"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "In Canada, quale oceano bagna la costa occidentale ed è soggetto a pesca intensiva?",
+    "corretta": "Oceano Pacifico",
+    "sbagliate": [
+      "Oceano Atlantico",
+      "Oceano Artico",
+      "Oceano Indiano"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è una specie marina a rischio nelle acque nordamericane dell'Atlantico?",
+    "corretta": "Tartaruga liuto",
+    "sbagliate": [
+      "Orca del nord",
+      "Merluzzo bianco",
+      "Balena beluga"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Qual è una delle cause principali della perdita di biodiversità nei parchi nazionali statunitensi?",
+    "corretta": "Cambiamento climatico",
+    "sbagliate": [
+      "Caccia intensiva",
+      "Eccessiva urbanizzazione",
+      "Inquinamento acustico marino"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "In quale grande ecosistema nordamericano si registra un rapido scioglimento del permafrost?",
+    "corretta": "Tundra dell’Alaska",
+    "sbagliate": [
+      "Foresta delle Montagne Rocciose",
+      "Taiga canadese",
+      "Praterie centrali"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale animale simbolico canadese è oggetto di programmi di tutela ambientale?",
+    "corretta": "Castoro",
+    "sbagliate": [
+      "Alce",
+      "Caribù",
+      "Lupo grigio"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale paese sudamericano ha avviato il programma “Fome Zero” per combattere la fame?",
+    "corretta": "Brasile",
+    "sbagliate": [
+      "Cile",
+      "Argentina",
+      "Colombia"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale coltura tradizionale andina è considerata fondamentale per la sicurezza alimentare locale?",
+    "corretta": "Quinoa",
+    "sbagliate": [
+      "Mais",
+      "Fagiolo",
+      "Manioca"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Cosa rappresentano i mercati contadini in molte aree rurali del Sud America?",
+    "corretta": "Un modo per vendere direttamente prodotti agricoli locali",
+    "sbagliate": [
+      "Punti di distribuzione alimentare gratuiti",
+      "Eventi culturali stagionali",
+      "Centri di educazione ambientale"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale grande fiume sudamericano è fondamentale per l’approvvigionamento idrico di molte comunità?",
+    "corretta": "Rio delle Amazzoni",
+    "sbagliate": [
+      "Fiume Paraná",
+      "Fiume Orinoco",
+      "Fiume São Francisco"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale problema colpisce molte aree urbane povere riguardo l'acqua potabile?",
+    "corretta": "Mancanza di accesso a fonti sicure",
+    "sbagliate": [
+      "Eccessiva disponibilità d’acqua",
+      "Filtrazione naturale dei pozzi",
+      "Accesso gratuito e illimitato"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale città ha investito in impianti di trattamento delle acque per combattere l'inquinamento fluviale?",
+    "corretta": "Bogotá",
+    "sbagliate": [
+      "Lima",
+      "Quito",
+      "Caracas"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è una minaccia per la biodiversità marina lungo la costa del Pacifico sudamericano?",
+    "corretta": "Sovrapesca e pesca illegale",
+    "sbagliate": [
+      "Protezione eccessiva delle coste",
+      "Mancanza di specie invasive",
+      "Aumento delle aree marine protette"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Cosa causa frequentemente la morte di pesci in alcuni bacini dell’Amazzonia?",
+    "corretta": "Inquinamento e variazioni di ossigeno",
+    "sbagliate": [
+      "Temperature marine troppo basse",
+      "Abbondanza di ossigeno disciolto",
+      "Incremento della fotosintesi algale"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale ecosistema costiero peruviano è famoso per la sua biodiversità?",
+    "corretta": "Corrente di Humboldt",
+    "sbagliate": [
+      "Mangrovie dell’Amazzonia",
+      "Lagune costiere del Cile",
+      "Barriera corallina di Panama"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale foresta è considerata il polmone verde del pianeta?",
+    "corretta": "Foresta Amazzonica",
+    "sbagliate": [
+      "Foresta Atlantica",
+      "Pampa argentina",
+      "Foresta di Araucaria"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Qual è una delle principali cause della deforestazione in Amazzonia?",
+    "corretta": "Espansione agricola e allevamento",
+    "sbagliate": [
+      "Crescita naturale della vegetazione",
+      "Rimboschimento e riforestazione",
+      "Mancanza di attività agricole"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale animale sudamericano è minacciato dalla perdita di habitat?",
+    "corretta": "Giaguaro",
+    "sbagliate": [
+      "Bradipo tridattilo",
+      "Tapir amazzonico",
+      "Capibara"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale politica UE sostiene gli agricoltori e la sicurezza alimentare?",
+    "corretta": "Politica Agricola Comune (PAC)",
+    "sbagliate": [
+      "Patto per la Biodiversità Agricola",
+      "Trattato Europeo per l’Agricoltura",
+      "Fondo Sociale per l’Alimentazione"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Cos'è il Banco Alimentare?",
+    "corretta": "Organizzazione che raccoglie e distribuisce cibo ai bisognosi",
+    "sbagliate": [
+      "Catena di supermercati etici",
+      "Associazione europea di cuochi",
+      "Azienda per la distribuzione di surgelati"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale frutto è spesso sovvenzionato in Europa per promuovere una dieta sana?",
+    "corretta": "Mela",
+    "sbagliate": [
+      "Papaya",
+      "Banana",
+      "Avocado"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale direttiva europea tutela le acque destinate al consumo umano?",
+    "corretta": "Direttiva 2020/2184/UE",
+    "sbagliate": [
+      "Direttiva Rifiuti Solidi 2015",
+      "Legge Quadro Europea sull’Ambiente",
+      "Trattato di Lisbona sull’Acqua"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Che cos’è la Blue Flag assegnata a molte spiagge europee?",
+    "corretta": "Riconoscimento per la qualità ambientale",
+    "sbagliate": [
+      "Certificato per la balneazione sportiva",
+      "Marchio di qualità per stabilimenti privati",
+      "Autorizzazione alla pesca costiera"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale tecnologia è usata in Europa per il trattamento avanzato delle acque reflue?",
+    "corretta": "Membrane filtranti e UV",
+    "sbagliate": [
+      "Pozzi artesiani chimici",
+      "Clorazione ad alta pressione",
+      "Osmosi a ciclo aperto"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Cosa protegge la Direttiva Habitat in Europa?",
+    "corretta": "Specie marine e habitat costieri",
+    "sbagliate": [
+      "Aree industriali dismesse",
+      "Specie agricole ad alto rendimento",
+      "Edifici in zone protette"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Che cosa vieta la Politica Comune della Pesca?",
+    "corretta": "Pesca eccessiva e durante i periodi di riproduzione",
+    "sbagliate": [
+      "Importazione di pesce surgelato",
+      "Vendita al dettaglio nei mercati",
+      "Allevamento in acque interne"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale mare europeo è affetto da sovraccarico di nutrienti?",
+    "corretta": "Mar Baltico",
+    "sbagliate": [
+      "Mar Mediterraneo",
+      "Mar Nero",
+      "Oceano Atlantico"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Cosa tutela la rete europea Natura 2000?",
+    "corretta": "Aree naturali di pregio e specie minacciate",
+    "sbagliate": [
+      "Zone agricole ad alto potenziale",
+      "Infrastrutture verdi europee",
+      "Corridoi per il trasporto sostenibile"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale animale è simbolo del ripristino ecologico europeo?",
+    "corretta": "Lupo",
+    "sbagliate": [
+      "Stambecco",
+      "Aquila reale",
+      "Capriolo"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Qual è un problema legato ai boschi mediterranei?",
+    "corretta": "Incendi boschivi",
+    "sbagliate": [
+      "Crescita incontrollata della vegetazione",
+      "Abbondanza di specie invasive acquatiche",
+      "Eccessiva umidità del sottobosco"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale problema agricolo colpisce il Nord Africa?",
+    "corretta": "Desertificazione",
+    "sbagliate": [
+      "Eccesso di piogge stagionali",
+      "Fertilità eccessiva del suolo",
+      "Rallentamento delle colture OGM"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Qual è una coltura tipica per la sussistenza nella regione?",
+    "corretta": "Grano duro",
+    "sbagliate": [
+      "Pomodoro ciliegino",
+      "Zafferano",
+      "Melanzana"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale organizzazione sostiene l’agricoltura nel Maghreb?",
+    "corretta": "FAO",
+    "sbagliate": [
+      "Greenpeace",
+      "Unione Africana",
+      "Ministero del Turismo Marocchino"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Qual è una delle cause principali di scarsità idrica nella regione?",
+    "corretta": "Siccità e gestione inefficiente",
+    "sbagliate": [
+      "Piene improvvise e allagamenti",
+      "Eccessiva costruzione di dighe",
+      "Espansione dei laghi artificiali"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Cos’è il 'Great Man-Made River' in Libia?",
+    "corretta": "Progetto di approvvigionamento idrico sotterraneo",
+    "sbagliate": [
+      "Sistema ferroviario per il trasporto d’acqua",
+      "Centrale idroelettrica nel deserto",
+      "Rete di canali per irrigazione agricola a cielo aperto"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale mare è a rischio di salinizzazione e inquinamento?",
+    "corretta": "Mar Mediterraneo",
+    "sbagliate": [
+      "Mar Rosso",
+      "Mar Caspio",
+      "Mar Nero"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è una minaccia alla pesca artigianale costiera?",
+    "corretta": "Pesca industriale non regolata",
+    "sbagliate": [
+      "Turismo balneare stagionale",
+      "Calo della domanda di pesce",
+      "Limitazioni imposte dai parchi marini"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale specie marina del Mediterraneo è in pericolo?",
+    "corretta": "Tonno rosso",
+    "sbagliate": [
+      "Pesce palla",
+      "Sogliola mediterranea",
+      "Riccio di mare"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Che effetto ha l’inquinamento da plastica sulla fauna marina locale?",
+    "corretta": "Danneggia e uccide specie marine",
+    "sbagliate": [
+      "Favorisce la fotosintesi marina",
+      "Aumenta la fertilità delle acque",
+      "Accelera la decomposizione del plancton"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Qual è un importante habitat naturale in Tunisia e Algeria?",
+    "corretta": "Zone umide costiere",
+    "sbagliate": [
+      "Foreste tropicali centrali",
+      "Steppe aride del Maghreb",
+      "Savane del Sahel"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Che cos’è il progetto della 'Grande Muraglia Verde'?",
+    "corretta": "Barriera vegetale per fermare la desertificazione",
+    "sbagliate": [
+      "Rete di strade verdi per l’agricoltura",
+      "Sistema di irrigazione nel Sahara",
+      "Progetto turistico sostenibile nel deserto"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale animale del deserto è in via di estinzione?",
+    "corretta": "Gazzella dorcade",
+    "sbagliate": [
+      "Leopardo delle nevi",
+      "Ghepardo africano",
+      "Zibellino del Sahara"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale fattore incide maggiormente sulla fame in Africa Sub-Sahariana?",
+    "corretta": "Povertà e conflitti",
+    "sbagliate": [
+      "Abbondanza di risorse alimentari",
+      "Esportazioni eccessive di cibo",
+      "Saturazione del mercato locale"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale coltura base è diffusa nell’Africa orientale?",
+    "corretta": "Manioca",
+    "sbagliate": [
+      "Riso",
+      "Grano",
+      "Orzo"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Cos’è il 'WFP'?",
+    "corretta": "Programma Alimentare Mondiale (ONU)",
+    "sbagliate": [
+      "Organizzazione per il commercio mondiale",
+      "Programma dell’UNESCO per l’educazione",
+      "Iniziativa ONU per i rifugiati ambientali"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Perché l’accesso all’acqua potabile è problematico in molte aree?",
+    "corretta": "Mancanza di infrastrutture e pozzi sicuri",
+    "sbagliate": [
+      "Eccesso di precipitazioni annuali",
+      "Conflitti per il controllo delle dighe",
+      "Utilizzo esclusivo di fonti piovane"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Cosa sono i 'water kiosks'?",
+    "corretta": "Punti di distribuzione d’acqua controllata",
+    "sbagliate": [
+      "Sistemi di irrigazione per l’agricoltura",
+      "Distributori automatici di bottiglie",
+      "Stazioni mobili per la depurazione"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale malattia è trasmessa da acqua contaminata?",
+    "corretta": "Colera",
+    "sbagliate": [
+      "Malaria",
+      "Tubercolosi",
+      "Influenza intestinale"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è un importante lago condiviso da diversi paesi?",
+    "corretta": "Lago Vittoria",
+    "sbagliate": [
+      "Lago Tanganica",
+      "Lago Alberto",
+      "Lago Malawi"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale problema colpisce i fiumi africani?",
+    "corretta": "Inquinamento da metalli pesanti",
+    "sbagliate": [
+      "Erosione delle rive per la pesca",
+      "Salinità eccessiva naturale",
+      "Presenza di coralli invasivi"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale pesce è alla base della dieta locale nel bacino del Congo?",
+    "corretta": "Tilapia",
+    "sbagliate": [
+      "Merluzzo",
+      "Trota",
+      "Salmone"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Qual è una foresta pluviale importante in Africa?",
+    "corretta": "Foresta del bacino del Congo",
+    "sbagliate": [
+      "Foresta dell'Anatolia",
+      "Giungla di Madagascar",
+      "Savana del Kalahari"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Che impatto ha il bracconaggio?",
+    "corretta": "Minaccia specie come elefanti e rinoceronti",
+    "sbagliate": [
+      "Favorisce la biodiversità",
+      "Regola il numero di predatori",
+      "Stimola l’ecoturismo sostenibile"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Che cos’è l’agricoltura 'slash-and-burn'?",
+    "corretta": "Deforestazione per coltivazione a breve termine",
+    "sbagliate": [
+      "Tecnica di irrigazione sotterranea",
+      "Metodo per la riforestazione naturale",
+      "Sistema di rotazione delle colture"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Qual è una causa comune della fame in alcune regioni del Medio Oriente?",
+    "corretta": "Conflitti armati e instabilità politica",
+    "sbagliate": [
+      "Sovrapproduzione agricola",
+      "Distribuzione eccessiva di risorse",
+      "Esportazioni agricole elevate"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Che ruolo ha la coltivazione del grano in Turchia?",
+    "corretta": "È una delle basi dell’agricoltura nazionale",
+    "sbagliate": [
+      "È destinata quasi esclusivamente all’esportazione",
+      "È usata solo per la produzione di carburante",
+      "È coltivata solo nelle zone costiere"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Qual è una ONG attiva per la sicurezza alimentare in Siria e Libano?",
+    "corretta": "Mezzaluna Rossa",
+    "sbagliate": [
+      "Greenpeace",
+      "UNICEF",
+      "Croce Verde Internazionale"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale fiume è condiviso tra più stati e fonte di tensioni idriche?",
+    "corretta": "Fiume Tigri ed Eufrate",
+    "sbagliate": [
+      "Fiume Mekong",
+      "Fiume Indo",
+      "Fiume Nilo"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Cos’è un sistema di irrigazione 'qanat'?",
+    "corretta": "Antico sistema sotterraneo per trasportare acqua",
+    "sbagliate": [
+      "Sistema di pozzi artesiani",
+      "Canale all’aperto con energia solare",
+      "Metodo di dissalazione del mare"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Che problema colpisce la Giordania in termini idrici?",
+    "corretta": "Grave scarsità d’acqua",
+    "sbagliate": [
+      "Eccesso di fonti sotterranee",
+      "Alluvioni stagionali ricorrenti",
+      "Acqua salmastra in superficie"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è un mare importante per la biodiversità in questa regione?",
+    "corretta": "Mar Rosso",
+    "sbagliate": [
+      "Mar Nero",
+      "Mar Mediterraneo",
+      "Oceano Indiano"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale problema colpisce le barriere coralline del Golfo Persico?",
+    "corretta": "Riscaldamento e inquinamento marino",
+    "sbagliate": [
+      "Erosione costiera",
+      "Presenza di tartarughe marine",
+      "Crescita incontrollata dei coralli"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Perché la pesca eccessiva è una minaccia nel Mediterraneo orientale?",
+    "corretta": "Sfruttamento intensivo delle risorse ittiche",
+    "sbagliate": [
+      "Aumento del turismo balneare",
+      "Incremento delle barche da diporto",
+      "Sviluppo di acquacolture sostenibili"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale deserto copre buona parte della penisola arabica?",
+    "corretta": "Rub' al Khali",
+    "sbagliate": [
+      "Deserto del Thar",
+      "Deserto del Gobi",
+      "Deserto del Karakum"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale animale iconico della regione è minacciato?",
+    "corretta": "Leopardo dell’Arabia",
+    "sbagliate": [
+      "Cammello arabo",
+      "Falco pellegrino",
+      "Ibis sacro"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Cosa rappresentano le oasi per l’ecosistema locale?",
+    "corretta": "Siti di biodiversità e risorse vitali",
+    "sbagliate": [
+      "Zone sabbiose senza vegetazione",
+      "Antichi insediamenti militari",
+      "Siti turistici per sport estremi"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale nazione ha storicamente lottato con la fame ma ha ridotto il problema con riforme agricole?",
+    "corretta": "Cina",
+    "sbagliate": [
+      "Singapore",
+      "Giappone",
+      "Corea del Sud"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Cos'è l’agricoltura urbana a Tokyo?",
+    "corretta": "Coltivazione di cibo all'interno delle città",
+    "sbagliate": [
+      "Parchi botanici nelle periferie",
+      "Campi di grano nei sobborghi",
+      "Serre per fiori ornamentali"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale alimento base è coltivato nelle risaie di Asia Orientale?",
+    "corretta": "Riso",
+    "sbagliate": [
+      "Soia",
+      "Orzo",
+      "Mais"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Qual è una sfida idrica in grandi città come Pechino?",
+    "corretta": "Inquinamento delle falde acquifere",
+    "sbagliate": [
+      "Eccessiva disponibilità d’acqua",
+      "Crescita delle zone umide",
+      "Utilizzo esclusivo di acqua piovana"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale fiume è vitale per milioni di persone in Cina?",
+    "corretta": "Fiume Yangtze",
+    "sbagliate": [
+      "Fiume Mekong",
+      "Fiume Giallo",
+      "Fiume Lena"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale tecnologia è usata in Corea del Sud per riciclare acque reflue?",
+    "corretta": "Trattamento avanzato a membrana",
+    "sbagliate": [
+      "Ossidazione biologica lenta",
+      "Depurazione chimica a cielo aperto",
+      "Filtraggio con sabbia pressurizzata"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale mare è affetto da inquinamento da plastica?",
+    "corretta": "Mar Cinese Orientale",
+    "sbagliate": [
+      "Mar del Giappone",
+      "Oceano Indiano",
+      "Mar di Okhotsk"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è una tradizionale tecnica di allevamento dei pesci in Giappone?",
+    "corretta": "Acquacoltura integrata",
+    "sbagliate": [
+      "Allevamento in mare profondo",
+      "Acquacoltura industriale intensiva",
+      "Coltura monoculturale di alghe"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale specie marina è minacciata nel Mar Giallo?",
+    "corretta": "Delfino bianco cinese",
+    "sbagliate": [
+      "Granchio gigante giapponese",
+      "Squalo balena",
+      "Medusa Nomura"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale specie simbolo della conservazione vive in Cina?",
+    "corretta": "Panda gigante",
+    "sbagliate": [
+      "Tigre della Siberia",
+      "Leopardo delle nevi",
+      "Cervo muschiato"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale problema affligge le foreste della Mongolia Interna?",
+    "corretta": "Desertificazione",
+    "sbagliate": [
+      "Sovraccarico idrico",
+      "Inondazioni stagionali",
+      "Crescita delle foreste tropicali"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Qual è una soluzione attuata per aumentare il verde urbano in Giappone?",
+    "corretta": "Tetti e pareti verdi",
+    "sbagliate": [
+      "Degrado delle aree urbane",
+      "Espansione del traffico stradale",
+      "Deforestazione pianificata"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale guerra ha aggravato la fame in Yemen?",
+    "corretta": "Guerra civile iniziata nel 2015",
+    "sbagliate": [
+      "Guerra del Golfo del 1991",
+      "Conflitto israelo-palestinese",
+      "Invasione dell’Iraq del 2003"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale alimento base è importato in gran parte nei paesi del Golfo?",
+    "corretta": "Cereali",
+    "sbagliate": [
+      "Frutta tropicale",
+      "Carne bovina",
+      "Prodotti caseari freschi"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Qual è una misura adottata da Israele per l'agricoltura in zone aride?",
+    "corretta": "Irrigazione a goccia",
+    "sbagliate": [
+      "Irrigazione a spruzzo automatica",
+      "Allagamento dei campi",
+      "Utilizzo di droni per annaffiare"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Qual è un'importante fonte di acqua dolce in Israele e Giordania?",
+    "corretta": "Fiume Giordano",
+    "sbagliate": [
+      "Lago di Tiberiade",
+      "Mar Morto",
+      "Fiume Litani"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Che tipo di impianti sono diffusi nei paesi del Golfo per ottenere acqua potabile?",
+    "corretta": "Impianti di desalinizzazione",
+    "sbagliate": [
+      "Impianti di energia geotermica",
+      "Stazioni di pompaggio fluviali",
+      "Serbatoi artificiali di acqua piovana"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Qual è una sfida comune nelle aree rurali?",
+    "corretta": "Mancanza di servizi igienici sicuri",
+    "sbagliate": [
+      "Sovrappopolazione agricola",
+      "Presenza di troppi ospedali",
+      "Esportazione forzata di grano"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale zona marina è nota per la sua biodiversità ma anche vulnerabilità?",
+    "corretta": "Golfo di Aqaba",
+    "sbagliate": [
+      "Golfo di Oman",
+      "Stretto di Hormuz",
+      "Golfo Persico"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Cosa provoca l’eccessiva desalinizzazione nelle acque costiere?",
+    "corretta": "Aumento della salinità e alterazione dell’ecosistema",
+    "sbagliate": [
+      "Diminuzione della salinità marina",
+      "Aumento della temperatura dei fiumi",
+      "Aumento della biodiversità costiera"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Che ruolo ha la barriera corallina del Mar Rosso?",
+    "corretta": "Rifugio per molte specie e attrazione turistica",
+    "sbagliate": [
+      "Barriera per il trasporto marittimo",
+      "Ostacolo per la pesca intensiva",
+      "Deposito naturale di sali minerali"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quali sono le principali minacce alla biodiversità desertica?",
+    "corretta": "Urbanizzazione e pascolo eccessivo",
+    "sbagliate": [
+      "Ripopolamento naturale",
+      "Eccesso di aree protette",
+      "Piogge troppo abbondanti"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale animale simbolo del deserto è oggetto di protezione?",
+    "corretta": "Oryx arabo",
+    "sbagliate": [
+      "Dromedario",
+      "Fennec",
+      "Scorpione dorato"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Cos’è un wadi e perché è importante?",
+    "corretta": "Letto di fiume stagionale che sostiene la flora e fauna",
+    "sbagliate": [
+      "Vulcano dormiente che crea oasi",
+      "Collina fertile con laghi temporanei",
+      "Duna mobile che conserva l’umidità"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale coltura è fondamentale per le popolazioni delle isole del Pacifico?",
+    "corretta": "Taro",
+    "sbagliate": [
+      "Riso",
+      "Mais",
+      "Fagiolo mung"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Qual è una sfida per l’approvvigionamento alimentare nelle isole remote?",
+    "corretta": "Difficoltà di trasporto e dipendenza dalle importazioni",
+    "sbagliate": [
+      "Sovrabbondanza di prodotti freschi",
+      "Eccesso di riserve alimentari",
+      "Distribuzione gratuita nazionale"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Che iniziativa sostiene l’agricoltura locale nelle Fiji?",
+    "corretta": "Progetti comunitari di orti scolastici",
+    "sbagliate": [
+      "Progetti per importazioni alimentari",
+      "Iniziative per aumentare le esportazioni",
+      "Sussidi per l’uso di pesticidi"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Qual è una minaccia alla disponibilità d’acqua nelle isole del Pacifico?",
+    "corretta": "Intrusione salina nelle falde acquifere",
+    "sbagliate": [
+      "Abbondanza di ghiacciai montani",
+      "Crescita delle sorgenti naturali",
+      "Riduzione della domanda agricola"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Che tipo di raccolta d’acqua viene usata in aree senza fonti?",
+    "corretta": "Raccolta di acqua piovana",
+    "sbagliate": [
+      "Prosciugamento dei laghi artificiali",
+      "Utilizzo di acqua salata depurata",
+      "Canalizzazione dei fiumi sotterranei"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale paese ha migliorato l'accesso all'acqua con serbatoi familiari?",
+    "corretta": "Papua Nuova Guinea",
+    "sbagliate": [
+      "Isole Figi",
+      "Vanuatu",
+      "Samoa"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è una delle barriere coralline più famose al mondo?",
+    "corretta": "Grande Barriera Corallina",
+    "sbagliate": [
+      "Barriera corallina di Okinawa",
+      "Scogliera di Bora Bora",
+      "Atollo di Tuvalu"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è una minaccia legata al cambiamento climatico per i coralli?",
+    "corretta": "Sbiancamento dei coralli",
+    "sbagliate": [
+      "Fioritura delle alghe marine",
+      "Aumento della popolazione ittica",
+      "Espansione delle barriere coralline"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Qual è una specie marina protetta nel Pacifico?",
+    "corretta": "Dugongo",
+    "sbagliate": [
+      "Tartaruga verde",
+      "Stella marina blu",
+      "Polpo gigante del Pacifico"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale animale è simbolo della fauna australiana?",
+    "corretta": "Canguro",
+    "sbagliate": [
+      "Koala",
+      "Emù",
+      "Ornitorinco"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Che tipo di incendi minaccia gli habitat in Australia?",
+    "corretta": "Incendi boschivi intensificati dai cambiamenti climatici",
+    "sbagliate": [
+      "Incendi controllati per la riforestazione",
+      "Esplosioni vulcaniche naturali",
+      "Roghi agricoli stagionali"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Cos’è una 'species recovery zone' in Nuova Zelanda?",
+    "corretta": "Area dedicata alla reintroduzione di specie native",
+    "sbagliate": [
+      "Zona industriale protetta",
+      "Area turistica naturalistica",
+      "Regione senza intervento umano"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale fonte è più affidabile per dati sulla povertà alimentare negli USA?",
+    "corretta": "CDC",
+    "sbagliate": [
+      "Wikipedia",
+      "Facebook",
+      "Blog di viaggiatori"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Dove si possono trovare informazioni attendibili sulla qualità dell'acqua in Canada?",
+    "corretta": "Governo del Canada",
+    "sbagliate": [
+      "Instagram",
+      "Pagine locali di opinione",
+      "Canali YouTube indipendenti"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Chi monitora l'impatto dell'inquinamento marino sulle coste del Pacifico?",
+    "corretta": "NOAA",
+    "sbagliate": [
+      "WTO",
+      "UNESCO",
+      "TripAdvisor"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Nord America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Dove si trovano rapporti scientifici sul cambiamento climatico in Alaska?",
+    "corretta": "EPA",
+    "sbagliate": [
+      "Ministero del Turismo",
+      "Wikipedia",
+      "Reddit"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Chi fornisce dati affidabili sulla malnutrizione infantile in Brasile?",
+    "corretta": "Ministero della Salute Brasiliano",
+    "sbagliate": [
+      "Organizzazione Mondiale del Turismo",
+      "Associazione Culinaria Internazionale",
+      "Ente Nazionale per la Cucina Brasiliana"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Dove verificare la distribuzione dei servizi igienici nelle favelas?",
+    "corretta": "OMS",
+    "sbagliate": [
+      "Facebook",
+      "TikTok",
+      "Chat di WhatsApp"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale ente segue l'inquinamento della Corrente di Humboldt?",
+    "corretta": "UNEP",
+    "sbagliate": [
+      "Ministero del Turismo australiano",
+      "Associazione dei Pescatori locali",
+      "Blog di snorkeling della Nuova Zelanda"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Sud America",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Dove trovare dati sul disboscamento dell'Amazzonia?",
+    "corretta": "INPE (Brasile)",
+    "sbagliate": [
+      "Ministero della Cultura brasiliano",
+      "Dipartimento del Turismo amazzonico",
+      "Associazione per la fauna selvatica"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Qual è una fonte ufficiale per la sicurezza alimentare in UE?",
+    "corretta": "EFSA",
+    "sbagliate": [
+      "Ministero dell'Agricoltura italiano",
+      "Slow Food",
+      "Greenpeace"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Chi pubblica i dati sulla qualità delle acque potabili in Europa?",
+    "corretta": "ECDC",
+    "sbagliate": [
+      "Agenzia Europea per l’Ambiente",
+      "Ministero della Salute Francese",
+      "Commissione Europea per le Risorse Idriche"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Chi monitora lo stato ecologico dei mari europei?",
+    "corretta": "Agenzia Europea per l’Ambiente",
+    "sbagliate": [
+      "Eurostat",
+      "Ministero della Pesca Spagnolo",
+      "WWF Europa"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Europa",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Dove si trovano statistiche sulla biodiversità terrestre europea?",
+    "corretta": "Eurostat",
+    "sbagliate": [
+      "Parlamento Europeo",
+      "Commissione Europea per l'Agricoltura",
+      "Rivista europea di ecologia"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Quale fonte è affidabile per studiare la sicurezza alimentare in Egitto?",
+    "corretta": "FAO",
+    "sbagliate": [
+      "TripAdvisor",
+      "YouTube",
+      "Ministero della Cultura"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Chi monitora i dati sull'accesso all'acqua in Nord Africa?",
+    "corretta": "UNICEF",
+    "sbagliate": [
+      "FAO",
+      "Banca Mondiale",
+      "Organizzazione Meteorologica Mondiale"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale organizzazione analizza l’inquinamento marino nel Mediterraneo?",
+    "corretta": "UNEP/MAP",
+    "sbagliate": [
+      "Associazione Internazionale Pescatori",
+      "Federazione Europea del Mare",
+      "Club Mediterraneo per la Ricerca"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Settentrionale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Dove trovare rapporti sul degrado del suolo nella regione?",
+    "corretta": "UNCCD",
+    "sbagliate": [
+      "Ministero del Suolo Europeo",
+      "FAO Forestry Watch",
+      "Green Journal Africa"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Chi fornisce dati affidabili sulla fame in Etiopia?",
+    "corretta": "World Food Programme",
+    "sbagliate": [
+      "Dipartimento per il Commercio Africano",
+      "Organizzazione per il Turismo Etiope",
+      "Associazione per la Cucina Tradizionale"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Dove si possono trovare statistiche sull'accesso all'acqua in villaggi rurali?",
+    "corretta": "WHO",
+    "sbagliate": [
+      "UNESCO",
+      "Ministero dell’Istruzione",
+      "Greenpeace Health Division"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale ente segue la biodiversità acquatica nei laghi africani?",
+    "corretta": "IUCN",
+    "sbagliate": [
+      "WWF Oceania",
+      "Associazione Internazionale Subacquei",
+      "Organizzazione Parchi Tropicali"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Africa Sub-Sahariana",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Dove sono pubblicati rapporti su deforestazione e fauna selvatica africana?",
+    "corretta": "WWF",
+    "sbagliate": [
+      "UNDP",
+      "Green Earth Association",
+      "Forest International Magazine"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Chi pubblica dati sulla povertà alimentare nei territori di guerra?",
+    "corretta": "UNHCR",
+    "sbagliate": [
+      "Ministero della Difesa Africano",
+      "Red Cross Food Section",
+      "African Trade Commission"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale fonte riporta affidabilmente l'accesso all'acqua nei campi profughi?",
+    "corretta": "OCHA",
+    "sbagliate": [
+      "National Geographic",
+      "Rivista Umanitaria Mensile",
+      "Programma Europeo per la Cooperazione"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Dove si possono trovare rapporti sull’inquinamento costiero in Medio Oriente?",
+    "corretta": "UNEP",
+    "sbagliate": [
+      "Associazione Mondiale dei Navigatori",
+      "WWF Marittimo",
+      "Dipartimento Oceanografico Regionale"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Occidentale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale agenzia valuta il degrado del territorio desertico?",
+    "corretta": "UNCCD",
+    "sbagliate": [
+      "Organizzazione Globale per il Clima",
+      "Ministero delle Foreste Urbane",
+      "Forum Internazionale dei Terreni"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Chi pubblica dati aggiornati sulla malnutrizione in Cina?",
+    "corretta": "FAO",
+    "sbagliate": [
+      "Associazione Internazionale della Nutrizione",
+      "Dipartimento per la Gastronomia",
+      "Organizzazione per l’Agricoltura Sostenibile"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Dove si trovano rapporti sulla gestione idrica urbana in Giappone?",
+    "corretta": "Ministero dell’Ambiente Giapponese",
+    "sbagliate": [
+      "Ministero dell’Energia e del Commercio",
+      "Istituto Giapponese per il Paesaggio",
+      "Agenzia per le Risorse Urbane"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Quale ente studia l’inquinamento dei fiumi cinesi?",
+    "corretta": "Ministry of Ecology and Environment (Cina)",
+    "sbagliate": [
+      "Green Yangtze Network",
+      "Dipartimento per il Clima Cinese",
+      "Centro per la Navigazione Sicura"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Asia Orientale",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Dove consultare studi sull’urbanizzazione e biodiversità terrestre asiatica?",
+    "corretta": "UNEP",
+    "sbagliate": [
+      "World Urban Forum",
+      "Dipartimento per l'Edilizia Residenziale",
+      "Associazione Internazionale di Architettura"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Chi fornisce dati affidabili sulla sicurezza alimentare in Yemen?",
+    "corretta": "FAO",
+    "sbagliate": [
+      "UNESCO",
+      "WWF",
+      "Organizzazione per la Cucina Globale"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Quale organizzazione monitora la qualità dell’acqua nei territori aridi?",
+    "corretta": "UNICEF",
+    "sbagliate": [
+      "OMS",
+      "Ministero della Cultura",
+      "Greenpeace Salute"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Chi analizza i dati sugli ecosistemi marini nel Golfo?",
+    "corretta": "UNEP",
+    "sbagliate": [
+      "Associazione Oceanografica del Pacifico",
+      "Marine Institute of New Zealand",
+      "Comitato delle Isole per la Biodiversità"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Medio Oriente",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Chi segue la protezione delle aree desertiche e delle specie?",
+    "corretta": "IUCN",
+    "sbagliate": [
+      "WWF Sahara",
+      "Organizzazione Mondiale per il Deserto",
+      "Fondazione Internazionale per le Zone Aride"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Sconfiggere la fame",
+    "domanda": "Dove trovare dati sulla fame tra le popolazioni indigene australiane?",
+    "corretta": "Australian Bureau of Statistics",
+    "sbagliate": [
+      "Australian Trade Association",
+      "Tourism Australia",
+      "Ministero per lo Sport e il Tempo Libero"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Acqua pulita e servizi igienico-sanitari",
+    "domanda": "Chi fornisce statistiche affidabili sull’accesso all’acqua nelle isole del Pacifico?",
+    "corretta": "Pacific Community (SPC)",
+    "sbagliate": [
+      "Asian Water Council",
+      "UNEP Oceania Division",
+      "WWF for Pacific Islands"
+    ],
+    "squadraAttiva": "rosso"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sott’acqua",
+    "domanda": "Chi monitora la salute della Grande Barriera Corallina?",
+    "corretta": "Great Barrier Reef Marine Park Authority",
+    "sbagliate": [
+      "Australian Institute of Marine Studies",
+      "Green Coral Network",
+      "Barrier Reef Watch Group"
+    ],
+    "squadraAttiva": "verde"
+  },
+  {
+    "zona": "Oceania",
+    "obiettivo": "Vita sulla terra",
+    "domanda": "Quale istituzione analizza la perdita di habitat per le specie in Australia?",
+    "corretta": "Department of Climate Change, Energy, the Environment and Water (DCCEEW)",
+    "sbagliate": [
+      "Climate Australia NGO",
+      "Department of Agriculture and Fisheries",
+      "Biodiversity Council of Queensland"
+    ],
+    "squadraAttiva": "rosso"
+  }
+]
