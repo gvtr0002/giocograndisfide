@@ -34,7 +34,7 @@ const Domanda = ({ zona, squadra, onRisposta }) => {
     } else {
       // AVVERSARIO CHE PROVA A RUBARE PUNTI
       if (corretta) {
-        alert("+2 punti all'altra squadra!");
+        alert("-2 punti all'altra squadra!");
         onRisposta("punti_avversario");
       } else {
         if (tentativi < 2) {
@@ -49,9 +49,13 @@ const Domanda = ({ zona, squadra, onRisposta }) => {
     }
   };
 
-  const opzioni = turno === avversario && tentativi > 0
-    ? risposteMostrate.filter(r => r !== domandaCorrente.sbagliate[0])
-    : risposteMostrate;
+let opzioni = [...risposteMostrate];
+if (turno === avversario && tentativi > 0) {
+  const sbagliataDaRimuovere = domandaCorrente.sbagliate.find(sb => opzioni.includes(sb));
+  if (sbagliataDaRimuovere) {
+    opzioni = opzioni.filter(r => r !== sbagliataDaRimuovere);
+  }
+}
 
   if (!domandaCorrente) return <p>Caricamento domanda...</p>;
 
