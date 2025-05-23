@@ -26,7 +26,7 @@ function App() {
     <div>
       {fase === 'login' && (
         <div>
-          <h1>Gioco Grandisfide</h1>
+          <h1>Equilibrio Fatale</h1>
           <button onClick={() => startGame('verde')}>Giocatore Verde</button>
           <button onClick={() => startGame('rosso')}>Giocatore Rosso</button>
         </div>
